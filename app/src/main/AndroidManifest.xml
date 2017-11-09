@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".ActivityTrackingActivity" />
-        <activity android:name=".FoodInformaitonActivity" />
+        <activity android:name=".FoodNutritionInformationTracker.FoodInformaitonActivity" />
         <activity android:name=".HouseThermostatActivity" />
         <activity android:name=".AutomobileActivity"></activity>
     </application>

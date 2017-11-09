@@ -7,6 +7,8 @@ import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.example.hliu.cst2335_project.FoodNutritionInformationTracker.FoodInformaitonActivity;
 // start activity version 3;
 
 //public class StartActivity extends Activity {
