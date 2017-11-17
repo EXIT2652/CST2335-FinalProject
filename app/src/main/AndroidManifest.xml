@@ -17,9 +17,12 @@
             </intent-filter>
         </activity>
         <activity android:name=".ActivityTrackingActivity" />
-        <activity android:name=".FoodNutritionInformationTracker.FoodInformaitonActivity" />
+        <activity android:name=".PkgFood.FoodInformationActivity">
+         android:label="@string/food_app_name_f"</activity>
         <activity android:name=".HouseThermostatActivity" />
-        <activity android:name=".AutomobileActivity"></activity>
+        <activity android:name=".AutomobileActivity" />
+        <activity android:name=".PkgFood.FoodAddActivity"></activity>
+        <activity android:name=".PkgFood.FoodFragmentListView"></activity>
     </application>
 
 </manifest> <!-- android:theme="@style/AppTheme"> -->

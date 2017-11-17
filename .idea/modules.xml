@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CST2335-FinalProject.iml" filepath="$PROJECT_DIR$/CST2335-FinalProject.iml" />
-      <module fileurl="file://D:\AC Computer Programmer\Level 03 201709\2335 Mobile Graphical Interface\Labs &amp; Project\Final Project\CST2335-FinalProject\CST2335_Project.iml" filepath="D:\AC Computer Programmer\Level 03 201709\2335 Mobile Graphical Interface\Labs &amp; Project\Final Project\CST2335-FinalProject\CST2335_Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

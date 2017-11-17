@@ -8,7 +8,7 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.example.hliu.cst2335_project.FoodNutritionInformationTracker.FoodInformaitonActivity;
+import com.example.hliu.cst2335_project.PkgFood.FoodAddActivity;
 // start activity version 3;
 
 //public class StartActivity extends Activity {
@@ -67,7 +67,7 @@ public class StartActivity extends AppCompatActivity {
                 return true;
 
             case R.id.ic_food:
-                intent = new Intent(StartActivity.this, FoodInformaitonActivity.class);
+                intent = new Intent(StartActivity.this, FoodAddActivity.class);
                 startActivity(intent);
                 return true;
             case R.id.ic_house:

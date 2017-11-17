@@ -4,4 +4,10 @@
     <string name="string_Auto">Automobile</string>
     <string name="string_food">Food Info</string>
     <string name="string_houseThermo">House Thermostat</string>
+
+
+    <string name="food_app_name_f">Lab1</string>
+    <string name="hint_f">Required</string>
+    <string name="add_f">Add</string>
+    <string name="title_activity_food_fragment_list_view">FoodFragmentListView</string>
 </resources>
